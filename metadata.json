@@ -1,0 +1,6 @@
+{
+  "name": "NerdVault",
+  "description": "Unified Nerd Economy Platform for video game tokens, digital collectibles, merchandise, event passes, and creator economies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
